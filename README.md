@@ -41,7 +41,7 @@
 <br/>
   <br/>
 <br/>
-  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
-  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
-  <img width="300px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
+  <img width="230px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
+  <img width="280px" align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
+  <img width="280px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
 </p>
