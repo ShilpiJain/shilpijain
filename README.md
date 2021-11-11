@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7483
-Fork on GitHub
-1468
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shilpi Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -37,7 +21,6 @@ preview
 <a href="https://linkedin.com/in/shilpijain159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpijain159" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9364374/shilpi-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9364374/shilpi-jain" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shilpijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shilpijain" height="30" width="40" /></a>
-<a href="https://instagram.com/sj.dairies.offical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sj.dairies.offical" height="30" width="40" /></a>
 <a href="https://dribbble.com/shilpijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shilpijain" height="30" width="40" /></a>
 <a href="https://www.behance.net/jain_shilpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jain_shilpi" height="30" width="40" /></a>
 <a href="https://medium.com/@shilpijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shilpijain" height="30" width="40" /></a>
