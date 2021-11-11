@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shilpijain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shilpijain" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
+</p>
