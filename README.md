@@ -36,11 +36,11 @@
 <br/>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpijain" alt="shilpijain" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpijain" alt="shilpijain" /></a> </p> -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
+  <img width="100px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
+  <img width="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
+  <img width="100px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
 </p>
