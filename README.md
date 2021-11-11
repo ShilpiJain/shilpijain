@@ -33,12 +33,15 @@
 <p style="height:40px">
   <a href="https://www.buymeacoffee.com/shilpijain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shilpijain" /></a>
 </p>
-<br/>
-<br/>
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpijain" alt="shilpijain" /></a> </p> -->
 <p>
-  <img width="250px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
-  <img width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
-  <img width="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
+  <br/>
+<br/>
+  <br/>
+<br/>
+  <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpijain&show_icons=true&locale=en&layout=compact" alt="shilpijain" />
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=shilpijain&show_icons=true&locale=en" alt="shilpijain" />
+  <img width="300px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpijain&" alt="shilpijain" />
 </p>
