@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shilpijain_" target="blank"><img src="https://img.shields.io/twitter/follow/shilpijain_?logo=twitter&style=for-the-badge" alt="shilpijain_" /></a> </p>
 
-- 📫 How to reach me **jain.shilpi733@gmail.com**
+- 📫 How to reach me **developer.shilpijain@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
