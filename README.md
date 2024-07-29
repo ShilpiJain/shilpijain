@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpijain&label=Profile%20views&color=0e75b6&style=flat" alt="shilpijain" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/shilpijain_" target="blank"><img src="https://img.shields.io/twitter/follow/shilpijain_?logo=twitter&style=for-the-badge" alt="shilpijain_" /></a> </p>
 
 - 📫 How to reach me **developer.shilpijain@gmail.com**
 
